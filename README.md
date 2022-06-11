@@ -1,6 +1,6 @@
-# SB Admin Angular
+# Admin Template
 
-Using SB Admin Angular is a free and open-sourced Bootstrap themed Angular 9 starter project
+Using SB Admin Angular is a free and open-sourced Bootstrap theme
 
 Steps:
- 1) Migrating from 9 to 13 version.
+ 1) Migrating from 11 to 13 version.
